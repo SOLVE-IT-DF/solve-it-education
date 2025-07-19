@@ -18,7 +18,7 @@ This one page primer was created to quickly communicate the design and applicati
 
 ### Class Exercises
 
-These are exercises that hae been developed that can be used in class for students to make use of SOLVE-IT. These are freely available and may be adapted to your needs. At present PDFs are provided but in future these will be converted to markdown so that corrections, updates and enhancements can be supplied back by the community. If you develop your own SOLVE-IT exercises please consider uploading them here.
+These are exercises that has been developed that can be used in class for students to make use of SOLVE-IT. These are freely available and may be adapted to your needs. At present PDFs are provided but in future these will be converted to markdown so that corrections, updates and enhancements can be supplied back by the community. If you develop your own SOLVE-IT exercises please consider uploading them here.
 
 Each exercise contains a front page of information for instructors. This is indexed as page 0 so it can be removed if you want to issue the student information only from page 1 of the PDFs.
 
