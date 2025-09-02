@@ -35,3 +35,6 @@ Older versions for reference are linked below:
 
 * T1073: Calendar app examination ([worksheet](https://docs.google.com/spreadsheets/d/1BsRd5wZgOnObEqK0gxORjYO0t6bgV9GqnJRlOQ-iJWg/edit?usp=sharing))
 * T1128: AI companion app examination ([worksheet](https://docs.google.com/spreadsheets/d/1b3WqCrhdfSfCc69LI1e3202Pi6m4ARDoNRvLswqQ_H0/edit?usp=sharing))
+* T1076: Log file examination  ([worksheet](https://docs.google.com/spreadsheets/d/1Cy4AJcpRU4m9Y0wXRugV3p0dTmdlJO2IA7Bg5BHwjko/edit?usp=sharing))
+
+  
