@@ -7,7 +7,7 @@ If you are a digital forensics researcher then there is a good chance that you a
 
 ## PDF Version
 
-This guide will migrate to markdown at some point, but for now there is a [PDF version](contributing_to_SOLVE-IT_-_A_guide_for_researchers.pdf).
+This guide will migrate to markdown at some point, but for now there is a [PDF version](pdfs/contributing_to_SOLVE-IT_-_A_guide_for_researchers.pdf).
 
 
 ## Feedback
