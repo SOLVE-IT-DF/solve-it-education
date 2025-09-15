@@ -9,7 +9,7 @@ TRWM (Technique Results Weaknesses Mitigations) is a systematic approach for cap
 It is supported by TRWM Helper Workbooks (which are Google Sheets workbooks).
 
 
-A class exercise that works through the process is provided in the [Class Exercises](../class-exercises//class-exercises.md) section.
+A class exercise that works through the process is provided in the [Class Exercises](../class-exercises/README.md) section.
 
 ## Process Explanation
 
