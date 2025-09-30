@@ -6,7 +6,7 @@ TRWM (Technique Results Weaknesses Mitigations) is a systematic approach for cap
 
 It is supported by TRWM Helper Workbooks (which are Google Sheets workbooks).
 
-A class exercise that works through the process is provided in the [Class Exercises](../class-exercises/README.md) section. Further examples are provided in links [below](https://github.com/SOLVE-IT-DF/solve-it-education/edit/main/trwm-explained/README.md#techniques-currently-mapped-using-trwm).
+A class exercise that works through the process is provided in the [Class Exercises](../class-exercises/README.md) section. Further examples are provided in links [below](#techniques-currently-mapped-using-trwm).
 
 This approach is systematic, thorough, and has the advantage that the resulting worksheet can be programatically turned into JSON code ready to be added to the repository (see the experimental code `trwm2json.py`). 
 
@@ -16,7 +16,7 @@ The process was created to have a systematic approach to enumerating weaknesses 
 
 An overview of the steps are as follows (with a detailed work-through in the [Class Exercises](../class-exercises/README.md) section.
 
-* View the latest TRWM Helper worksheet (listed [below](https://github.com/SOLVE-IT-DF/solve-it-education/edit/main/trwm-explained/README.md#latest-version)).
+* View the latest TRWM Helper worksheet (listed [below](#latest-version)).
 * This Google Workbook will be read only, but you can use the menu option `File->Make a copy`, to create your own version that will be editable.
 * Work through the numbered worksheets, starting with a description of the technique, then the results that are the output of the technique. These can be mapped to CASE Ontology classes where possible, or use the 'Potential CASE classes' field to document others. 
 * The next worksheets will then automatically prompt for what different types of error could look like for each result type. These will be aggregated on sheet 3b. This compiled list allows you to:
