@@ -17,9 +17,9 @@ This exercise is designed to encourage students to think about how tools can go 
 [SOLVE-IT Exercise_ Tool testing dataset creation.pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/class-exercises/pdfs/SOLVE-IT%20Exercise_%20Tool%20testing%20dataset%20creation.pdf)
 
 ## Weakness Enumeration with TRWM
-This exercise will ask students to take a technique from SOLVE-IT, or one that is missing, and to systematically enumerate the weaknesses and mitigations associated with the technique. TRWM is the general approach of systematically considering: Technique, Result, Weaknesses and Mitigations. 
+This exercise will ask students to take a technique from SOLVE-IT, or one that is missing, and to systematically enumerate the weaknesses and mitigations associated with the technique. TRWM is the general approach of systematically considering: Technique, Results, Weaknesses and Mitigations. 
 
-[SOLVE-IT Exercise_ Weakness Enumeration with TRWM and SHWAMA.pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/class-exercises/pdfs/SOLVE-IT%20Exercise_%20Weakness%20Enumeration%20with%20TRWM%20and%20SHWAMA.pdf)
+[SOLVE-IT Exercise_ Weakness Enumeration using TRWM.pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/class-exercises/pdfs/SOLVE-IT%20Exercise_%20Weakness%20Enumeration%20with%20TRWM.pdf)
 
 
 # Attribution

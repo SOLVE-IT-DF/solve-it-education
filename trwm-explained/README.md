@@ -20,7 +20,7 @@ TODO
 
 The latest version of the TRWM Helper Worksheet is available below:
 
-* [v2.41](https://docs.google.com/spreadsheets/d/1riHTxltuFKWo5zJoLWk70tcZHcv-bydsavEMxqg1TUo/edit?usp=sharing)
+* [v2.51](https://docs.google.com/spreadsheets/d/1pu2TXWQXvIeIh6hNHao3n-Svr66FQP-Yze0pAqH4fyA)
 
 
 ## Older Versions
@@ -29,11 +29,11 @@ Older versions for reference are linked below:
 * [v2.2](https://docs.google.com/spreadsheets/d/1iCbKCQunwdX-urLs-F6Eyv-ZE4N9r7xtRNpDnHXO-6g/edit?usp=sharing)
 * [v2.3](https://docs.google.com/spreadsheets/d/19YdHzjUb5PPkiNb2LsGamFuTHtA0h59jB0i_LFhmpX0/edit?usp=sharing)
 * [v2.4](https://docs.google.com/spreadsheets/d/1ctI8DzcYjiVg0uFhNpl6OKtRDoKMnw8_ky1gWk_TXWU/edit?usp=sharing)
-
+* [v2.41](https://docs.google.com/spreadsheets/d/1riHTxltuFKWo5zJoLWk70tcZHcv-bydsavEMxqg1TUo/edit?usp=sharing)
 
 ## Techniques currently mapped using TRWM
 
-* T1073: Calendar app examination ([worksheet](https://docs.google.com/spreadsheets/d/1z2akrdahCnWDK7O0zER5WCUi4Tpsh3D94hGjvR7OB2E/edit?usp=drive_link))
+* T1073: Calendar app examination ([worksheet](https://docs.google.com/spreadsheets/d/1BuEC6BZoMSduKWIsfebTjGTULrS2wA3izrawjFvwj0g/edit?usp=sharing))
 * T1076: Log file examination  ([worksheet](https://docs.google.com/spreadsheets/d/1Cy4AJcpRU4m9Y0wXRugV3p0dTmdlJO2IA7Bg5BHwjko/edit?usp=sharing))
 * T1128: AI companion app examination ([worksheet](https://docs.google.com/spreadsheets/d/1b3WqCrhdfSfCc69LI1e3202Pi6m4ARDoNRvLswqQ_H0/edit?usp=sharing))
   
