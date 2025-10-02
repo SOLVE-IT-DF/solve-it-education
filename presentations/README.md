@@ -8,3 +8,6 @@
  
  *  FAU Cybercrime Workshop 2025, Waischenfeld, Germany - SOLVE-IT for Digital Forensics Researchers ([pdf](pdfs/SOLVE-IT_FAU_Cybercrime_Workshop_2025.pdf))
 
+* "The digital hour", Norwegian Police University College - An Introduction to SOLVE-IT
+([pdf](pdfs/SOLVE-IT-2025-10-02_Digital_Hour_Norwegian_Police_University_College.pdf))
+
