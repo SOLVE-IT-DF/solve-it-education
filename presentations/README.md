@@ -10,3 +10,6 @@
 
 * 2nd October 2025, Norwegian Police University College - "The digital hour" - An Introduction to SOLVE-IT
 ([pdf](pdfs/SOLVE-IT-2025-10-02_Digital_Hour_Norwegian_Police_University_College.pdf))
+
+* 9th October 2025, Hansken.io - SOLVE-IT: Improving the quality of digital investigations
+([pdf](pdfs/SOLVE-IT-2025-10-09_Hansken.io.pdf))
