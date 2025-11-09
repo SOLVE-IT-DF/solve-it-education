@@ -6,6 +6,11 @@ Each exercise contains a front page of information for instructors. This is inde
 
 The exercises are mostly pre-v1 versions as they have not yet been tested. If you run these and there are problems, or they go well please do let us know. 
 
+## Getting started with SOLVE-IT generation scripts
+This exercise describes cloning the repository, and configuring and running the scripts assocated with the SOLVE-IT knowledge base. Note, that this is not needed to view the content of the knowledge base as markdown and Excel versions are generated automatically with each commit, but this is needed if you want to directly edit the JSON files and review the output. 
+
+[SOLVE-IT Exercise_ Using generation scripts.pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/class-exercises/pdfs/SOLVE-IT%20Exercise_%20Using%20generation%20scripts.pdf)
+
 ## Reviewing class exercise examination workflows
 This exercise is designed as an add-on to the end of a practical examination of a data source e.g. a disk image or phone extraction. Students will need to consider the tools and processes used, dissect them into component parts and map them against SOLVE-IT techniques.
 
