@@ -15,3 +15,6 @@
 ([pdf](pdfs/SOLVE-IT-2025-10-09_Hansken.io.pdf))
 
 * 10th November 2025, DFRWS APAC 2025 Workshop - SOLVE-IT – The digital forensic technique knowledge base, ([website](https://dfrws.org/presentation/workshop-solve-it-the-digital-forensic-technique-knowledge-base/), [pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2025-11-10%20DFRWS%20APAC%20SOLVE-IT%20Workshop.pdf))
+
+* 2nd December 2025, FAU Advanced Forensic Computing lecture - SOLVE-IT: A clock accuracy example [pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2025-12-02%20FAU%20Lecture.pdf)
+
