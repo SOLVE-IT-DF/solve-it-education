@@ -9,7 +9,7 @@ This is in early development. For the moment the following resources are availab
 
 * [Presentations](presentations) - presentations about SOLVE-IT.
 
-* [Contributing to SOLVE-IT: A guide for researchers](guide-for-researchers) - this document provides guidance for digital forensic researchers on how to add their research to SOLVE-IT.
+* [Contributing to SOLVE-IT: A guide for researchers V2](guide-for-researchers) - this document provides guidance for digital forensic researchers on how to add their research to SOLVE-IT.
 
 * [Class exercises](class-exercises) - a series of free exercises built on SOLVE-IT that can be used by instructors.
 
