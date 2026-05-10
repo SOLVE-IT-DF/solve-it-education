@@ -18,7 +18,7 @@
 
 * 2nd December 2025, FAU Advanced Forensic Computing lecture - SOLVE-IT: A clock accuracy example ([pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2025-12-02%20FAU%20Lecture.pdf))
 
-* 24th March 2025, DFRWS EU Workhop - Making Use of the SOLVE-IT Digital Forensics Knowledge Base ([pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2026-03-24_DFRWS_EU_Workshop.pdf))
+* 24th March 2026, DFRWS EU Workhop - Making Use of the SOLVE-IT Digital Forensics Knowledge Base ([pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2026-03-24_DFRWS_EU_Workshop.pdf))
 
   * Part 2 - Programmatic interaction with SOLVE-IT ([pdf](https://github.com/SOLVE-IT-DF/solve-it-education/blob/main/presentations/pdfs/SOLVE-IT-2026-03-24_DFRWS_EU_Workshop2.pdf))
 
